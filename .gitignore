@@ -1,0 +1,20 @@
+# local config
+local.properties
+
+#Apple Finder Files
+.DS_Store
+commit.txt
+
+# Idea config
+*.iws
+*.iml
+.idea/
+
+# Conflict files
+*.orig
+
+# Gradle dir
+.gradle/
+
+# Build dir
+build/
